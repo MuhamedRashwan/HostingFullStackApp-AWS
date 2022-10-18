@@ -30,7 +30,7 @@ Third Project of Udacity Scholarship Advanced Full-Stack Web Development
 
 # Documentation
 
-- [Dependencies](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/App%20dependencies.md)
+- [Dependencies](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/Dependencies.md)
 
 - [Infrastructure description](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/Infrastructure%20description.md)
 
