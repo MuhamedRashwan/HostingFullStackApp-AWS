@@ -17,7 +17,7 @@
 
 ## Frontend
 
-### 🔣 Development
+### Development
 
 - codelyzer: 4.5.0
 - jasmine-core: 2.99.1
@@ -32,7 +32,7 @@
 - tslint: 5.12.0
 - typescript: 3.5.3
 
-### 🚀 Production
+### Production
 
 - core-js: 2.5.4
 - rxjs: 6.5.4
@@ -42,7 +42,7 @@
 
 ## Backend
 
-### 🔣 Development
+### Development
 
 - chai: 4.2.0
 - chai-http: 4.2.1
@@ -52,7 +52,7 @@
 - ts-node-dev: 1.1.8
 - typescript: 3.9.10
 
-### 🚀 Production
+### Production
 
 - aws-sdk: 2.429.0
 - bcryptjs: 2.4.3
