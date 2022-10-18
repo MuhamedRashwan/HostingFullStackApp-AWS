@@ -2,7 +2,7 @@
 
 ## Diagram
 
-[Infrastructure Diagram](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/diagrams/infrastructure.png)
+[Architecture_Diagram](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/architecture_diagram.png)
 
 <br>
 
