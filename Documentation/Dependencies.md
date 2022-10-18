@@ -1,4 +1,4 @@
-# Application Dependencies
+# Dependencies
 
 ## Ensure you have the following installed:
 
