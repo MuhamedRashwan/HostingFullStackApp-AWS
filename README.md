@@ -30,8 +30,8 @@ Third Project of Udacity Scholarship Advanced Full-Stack Web Development
 
 # Documentation
 
-- [Application Dependencies](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/App%20dependencies.md)
+- [Dependencies](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/App%20dependencies.md)
 
 - [Infrastructure description](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/Infrastructure%20description.md)
 
-- [Pipeline process](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/CircleCI%20Pipeline.md)
+- [CICD Pipeline](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/CircleCI%20Pipeline.md)
