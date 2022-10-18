@@ -1,21 +1,19 @@
 # Application Dependencies
 
-## 🧱 Ensure you have the following installed:
+## Ensure you have the following installed:
 
-- Node v14.15.1 ( LTS ) or more recent.
-- npm 6.14.8 ( LTS ) or more recent.
-- AWS CLI v2
+```
+- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
 
-<br>
+- npm 6.14.8 (LTS) or more recent, Yarn can work but was not tested for this project
 
-## 💻 Deployment
+- AWS CLI v2, v1 can work but was not tested for this project
 
-- AWS RDS for Postgres database instance
-- AWS S3 Bucket for hosting Frontend ( Angular )
-- AWS Elastic Beanstalk for hosting the API ( Node.js )
-- Circle Ci for building testing and deploying the project using automation.
+- A RDS database running Postgres.
 
-<br>
+- A S3 bucket for hosting uploaded pictures.
+
+```
 
 ## Frontend
 
