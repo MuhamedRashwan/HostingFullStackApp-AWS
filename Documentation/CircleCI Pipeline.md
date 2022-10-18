@@ -1,12 +1,8 @@
-# Pipeline Process
-
-## With the help of <code> Circle Ci </code> we can automate the building, testing and deploying phases for our application
-
-<br>
+# CICD Pipeline 
 
 ## Steps
 
-- Developer update the code localy [ add new feature, fix a bug, ...etc ]
+- Developer update the code localy 
 - Push the changes to the github repo
 - Circle Ci will trigger this changes and will start the pipeline
   - Install Node
