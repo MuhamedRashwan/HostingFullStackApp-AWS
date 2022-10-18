@@ -1,10 +1,10 @@
-# HostingFullStackApplication
+# Hosting Full Stack Application
 
 This application was provided by udacity to be used in web development nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.The application will be deployed on AWS.
 
 # Overview
 
-### FrontEnd Link
+### Frontend Link
 
 - http://udagram-rashwan.s3-website-us-east-1.amazonaws.com/
 
