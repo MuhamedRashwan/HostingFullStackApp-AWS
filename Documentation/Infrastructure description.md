@@ -8,28 +8,14 @@
 
 # AWS Services
 
-## 1- AWS RDS
-
-- Used to host the postgres database
-- Save or return the data given or needed by the API
-
-## 2- AWS Elastic Beanstalk
-
-- Used to host the node application ( API )
-- Take requests from the frontend application and deal with it
-- Can communicate with the database to retrieve the data
-- Response with the proper data and status code to the frontend application
-
-## 3- AWS S3 Bucket
-
-- Used to host the frontend application
-- The website that the user will interact with
-- Will be used to send requests to the API and getting response back
-
-<br>
-
-# Circle Ci
-
-- Used with the Github repo to trigger any change in the main branch
-- After any change in the repo it will start a workflow shown in [Pipeline process](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/Pipeline%20process.md)
-- Main usage for it is building, testing, and deploying the project using automation.
+### RDS Postgres 
+- The application server uses AWS RDS Postgres as database for storing and retrieving information.
+    + Endpoint: udagramdb.cmn6mcnbudzh.us-east-1.rds.amazonaws.com
+    + Port: 5432
+### Elastic Beanstack
+- Used to save BE code and FrontEnd code will call the API's on  the EB through this endpoint.
+    + Endpoint: http://udagram-env.eba-xqwk6rmg.us-east-1.elasticbeanstalk.com/
+### S3 Bucket
+- The frontend application is deployed using AWS S3 Bucket. The bundled assets are uploaded to an S3 bucket and that
+bucket is made publicly readable. End users can access the application from the Bucket's endpoint.
+    + Endpoint: http://udagram-rashwan.s3-website-us-east-1.amazonaws.com/
