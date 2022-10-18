@@ -28,6 +28,27 @@ Third Project of Udacity Scholarship Advanced Full-Stack Web Development
 
 <br>
 
+## Enviromental Variables Set up
+Bellow are the environmental variables that needs to be set in a `.env` file. 
+```bash
+
+PORT
+POSTGRES_HOST
+POSTGRES_DB
+POSTGRES_PORT
+POSTGRES_USERNAME
+POSTGRES_PASSWORD
+AWS_BUCKET
+AWS_PROFILE
+AWS_REGION
+JWT_SECRET
+URL
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY	
+AWS_SESSION_TOKEN	
+
+<br>
+
 # Documentation
 
 - [Dependencies](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/Dependencies.md)
