@@ -1,8 +1,8 @@
 # HostingFullStackApplication
 
-Third Project of Udacity Scholarship Advanced Full-Stack Web Development
+This application was provided by udacity to be used in web development nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.The application will be deployed on AWS.
 
-# Review
+# Overview
 
 ### FrontEnd Link
 
