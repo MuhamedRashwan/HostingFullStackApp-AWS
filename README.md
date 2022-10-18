@@ -53,6 +53,6 @@ AWS_SECRET_ACCESS_KEY
 
 - [Dependencies](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/Dependencies.md)
 
-- [Infrastructure description](https://github.com/BeshoyMorad/HostingFullStackApplication/blob/main/docs/Infrastructure%20description.md)
+- [Infrastructure description](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/Infrastructure%20description.md)
 
 - [CICD Pipeline](https://github.com/MuhamedRashwan/HostingFullStackApp-AWS/blob/main/Documentation/CircleCI%20Pipeline.md)
